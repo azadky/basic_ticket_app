@@ -12,7 +12,7 @@
 		<relativePath/>
 	</parent>
 
-	<groupId>com.mckbilisim</groupId>
+	<groupId>com.azadkaya</groupId>
 	<artifactId>supportapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>supportapp</name>
